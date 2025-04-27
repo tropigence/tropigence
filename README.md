@@ -9,7 +9,7 @@
 
 # Tropigence
 
-_At Tropigence, we are dedicated to adding value to tropical fruits and vegetables._
+_At Tropigence, we are dedicated to adding value to tropical fruits and vegetables through innovative research._
 
 </header>
 
